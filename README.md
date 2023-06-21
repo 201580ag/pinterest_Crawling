@@ -5,7 +5,8 @@
 
 
 manual
-```pip install requests
+```
+pip install requests
 pip install selenium
 pip install chromedriver_autoinstaller
 ```
